@@ -264,7 +264,7 @@ class CapitalT(object):
         #        Your window should look exactly like the pictures in the PDF.
         # ---------------------------------------------------------------------
 
-    # See the IMPORTANT HINT in the TODO below!
+    # See the IMPORTANT HINT in the _TODO_ below!
     def move_by(self, dx, dy):
         """
         What comes in:
